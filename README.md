@@ -10,4 +10,4 @@
 ![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/esurcoa@unsa.edu.pe-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://devexperto.com/contacto)
+[![Email](https://img.shields.io/badge/esurcoa@unsa.edu.pe-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](esurcoa@unsa.edu.pe)
