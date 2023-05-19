@@ -1,8 +1,6 @@
 # 👋 Hi there, my name is Estephany Surco
 
-- 👀 I'm interested in learn new computer skills not only in software but in hardware too.
-- 🌱 I’m currently learning services web, movil application and unit tests.
-- 💞️ I’m looking to collaborate on projects that I can more experience my knowing.
+
 
 ## Skills:
 
