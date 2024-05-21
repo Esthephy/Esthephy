@@ -5,6 +5,7 @@
 - Javascript
 - Flutter
 - Css/Html
+- React JS
 
 ## Contact me:
 
